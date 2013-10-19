@@ -1,0 +1,9 @@
+name: PHorses
+version: 0.1b
+description: MinePT Portable Horses plugin
+main: me.Rato.PHorses.PHorses
+load: startup
+author: Rato
+commands:
+    ph:
+        description: Comandos do PortableHorse
